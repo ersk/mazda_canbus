@@ -1,0 +1,9 @@
+c:\CanBus\CanBus\bin\Debug\CanBus.exe.config
+c:\CanBus\CanBus\obj\Debug\CanBus.csprojResolveAssemblyReference.cache
+c:\CanBus\CanBus\obj\Debug\CanBus.Form1.resources
+c:\CanBus\CanBus\obj\Debug\CanBus.Properties.Resources.resources
+c:\CanBus\CanBus\obj\Debug\CanBus.csproj.GenerateResource.Cache
+c:\CanBus\CanBus\bin\Debug\CanBus.exe
+c:\CanBus\CanBus\bin\Debug\CanBus.pdb
+c:\CanBus\CanBus\obj\Debug\CanBus.exe
+c:\CanBus\CanBus\obj\Debug\CanBus.pdb
